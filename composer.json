@@ -1,0 +1,22 @@
+{
+  "name": "brisum/off-canvas-menu",
+  "description": "Off-canvas menu",
+  "keywords": [
+    "off-canvas",
+    "menu"
+  ],
+  "homepage": "https://github.com/brisum/off-canvas-menu",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\OffCanvasMenu\\": "src/"
+    }
+  }
+}
